@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>STEM GIRLS</title>
+		<link rel="stylesheet" href="css/styles.css">   
+	</head>
+    <body>
+        <H1> A website that connects all girls of the vodafone STEM program together.
+		here the girls of stem can talk,ask questions,and give advice to each other</H1>
+		
+        
+		<a href="www.google.com"> ASK QUESTIONS</a> 
+		
+		<a href="www.google.com"> GIVE ADVICE</a> 
+
+		<a href="www.google.com"> CHAT</a> 
+
+				
+        <p> 
+	    </p>
+	    <ul>
+	      <li></li>
+          <li></li>
+	      <li></li>
+	    </ul> 
+        <img src="th.jpg" >
+	</body>
+</html>
