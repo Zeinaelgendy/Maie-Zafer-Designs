@@ -1,6 +1,13 @@
 body{
          
-			  background-color: Darkseagreen;
+			  background-image: url(../images/untitled.png);
+			  background-repeat: no-repeat;
+              background-position: center;
+			  background-size: 1100px;
+ 
+ 
 }
 		
-		
+H1{
+	color: white;
+}
